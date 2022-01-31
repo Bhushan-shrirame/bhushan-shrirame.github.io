@@ -1,11 +1,6 @@
 ITS BHUSHAN SHRIRAME
 
-TODO
-add percentage bar in qualification page for the quaifiction
-
-add achievements
-
-add certification 
+This is a website about me
 
 
-make a proper project web
+project web page is pending
